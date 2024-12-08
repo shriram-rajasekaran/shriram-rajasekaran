@@ -4,8 +4,6 @@ I am Shriram, an aspiring Cloud Native Application developer, my passsion toward
 
 ![kcna-kubernetes-and-cloud-native-associate (2)](https://github.com/user-attachments/assets/c016a287-4d87-410d-8d67-9b91e0e3169f)
 
-and working my way to achive the KCAD soon.  
-
 <!--
 **shriram-rajasekaran/shriram-rajasekaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
